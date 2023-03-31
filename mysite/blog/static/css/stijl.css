@@ -1,0 +1,12 @@
+body{
+    background-color: orange;
+    color: black;
+}
+h1{
+    color: white;
+}
+article{ 
+    width: 500px;
+    margin-bottom: 40px;
+    border: 3px solid red;
+}
